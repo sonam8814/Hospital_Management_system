@@ -6,13 +6,13 @@ This project uses Java and SQL typically aims to create a software application t
 
 ## Key Components:
 1. Patient Management:<br>
-    * Patient Registration: Create and maintain patient records, including personal details, medical history, and treatment plans.
-    * Appointments: Schedule and manage patient appointments with doctors.
-2. Medical Records Management:
-    * Store and retrieve patient medical histories, diagnoses, prescriptions, and lab results.
-    * Ensure secure access to sensitive information.
-3. Reporting and Analytics:
-    * Generate various reports, such as daily or monthly patient reports, financial reports, and inventory usage reports.
+    * Patient Registration: Create and maintain patient records, including personal details, medical history, and treatment plans.<br>
+    * Appointments: Schedule and manage patient appointments with doctors.<br>
+2. Medical Records Management:<br>
+    * Store and retrieve patient medical histories, diagnoses, prescriptions, and lab results.<br>
+    * Ensure secure access to sensitive information.<br>
+3. Reporting and Analytics:<br>
+    * Generate various reports, such as daily or monthly patient reports, financial reports, and inventory usage reports.<br>
     * Analyze data for decision-making.
 Technical Overview:
 * Front-End (Java):
