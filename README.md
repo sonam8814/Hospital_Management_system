@@ -4,7 +4,7 @@
 <br> 
 This project uses Java and SQL typically aims to create a software application that manages the operations of a hospital or clinic efficiently. This system can handle various aspects of hospital administration, such as patient records, appointments and doctor's availability.<br>
 
-## Key Components:
+### Key Components:
 1. Patient Management:<br>
     * Patient Registration: Create and maintain patient records, including personal details, medical history, and treatment plans.<br>
     * Appointments: Schedule and manage patient appointments with doctors.<br>
@@ -13,15 +13,15 @@ This project uses Java and SQL typically aims to create a software application t
     * Ensure secure access to sensitive information.<br>
 3. Reporting and Analytics:<br>
     * Generate various reports, such as daily or monthly patient reports, financial reports, and inventory usage reports.<br>
-    * Analyze data for decision-making.
-Technical Overview:
+    * Analyze data for decision-making.<br>
+### Technical Overview:
 * Front-End (Java):
     * Swing/AWT: Used for creating a graphical user interface (GUI) that is user-friendly and allows hospital staff to interact with the system.
     * JavaFX: An alternative for building modern and more sophisticated UIs.
 * Back-End (SQL):
     * MySQL/Oracle SQL: Used for database management, storing all the data related to patients, staff, inventory, etc.
-    * SQL queries are used to perform CRUD (Create, Read, Update, Delete) operations on the database.
-Functionalities:
+    * SQL queries are used to perform CRUD (Create, Read, Update, Delete) operations on the database.<br>
+### Functionalities:
 1. User Authentication:
     * Different roles like Admin, Doctor, Nurse, and Receptionist have access to different modules.
     * Secure login system.
@@ -30,8 +30,8 @@ Functionalities:
 3. Electronic Medical Records (EMR):
     * Digital version of patient records that can be accessed across the hospital.
 4. Notifications and Alerts:
-    * Automated alerts for appointments, medication schedules, and inventory restocking.
-Project Workflow:
+    * Automated alerts for appointments, medication schedules, and inventory restocking.<br>
+### Project Workflow:
 1. Requirement Gathering: Understand the hospital's needs and workflow.
 2. System Design: Design the database schema and application architecture.
 3. Implementation: Develop the front-end using Java and connect it to the SQL database.
