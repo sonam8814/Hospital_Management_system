@@ -11,9 +11,6 @@ This project uses Java and SQL typically aims to create a software application t
 2. Medical Records Management:<br>
     * Store and retrieve patient medical histories, diagnoses, prescriptions, and lab results.<br>
     * Ensure secure access to sensitive information.<br>
-3. Reporting and Analytics:<br>
-    * Generate various reports, such as daily or monthly patient reports, financial reports, and inventory usage reports.<br>
-    * Analyze data for decision-making.<br>
 ### Technical Overview:
 * Front-End (Java):
     * Swing/AWT: Used for creating a graphical user interface (GUI) that is user-friendly and allows hospital staff to interact with the system.
@@ -27,16 +24,13 @@ This project uses Java and SQL typically aims to create a software application t
     * Secure login system.
 2. Patient Admission/Discharge:
     * Manage patient admission, transfer, and discharge processes.
-3. Electronic Medical Records (EMR):
-    * Digital version of patient records that can be accessed across the hospital.
-4. Notifications and Alerts:
-    * Automated alerts for appointments, medication schedules, and inventory restocking.<br>
+3. Availability of doctors:
+    * Check weather the specific doctors are present or not.
 ### Project Workflow:
 1. Requirement Gathering: Understand the hospital's needs and workflow.
 2. System Design: Design the database schema and application architecture.
 3. Implementation: Develop the front-end using Java and connect it to the SQL database.
 4. Testing: Test the system for bugs and ensure it meets the hospital's requirements.
-5. Deployment: Deploy the application in the hospital environment.
-6. Maintenance: Provide ongoing support and updates.
-This project helps in automating hospital operations, reducing paperwork, improving efficiency, and enhancing patient care.
+5. Deployment: Deploy the application in the hospital environment.<br>
+#### This project helps in automating hospital operations, reducing paperwork, improving efficiency, and enhancing patient care.
 
